@@ -1,0 +1,9 @@
+Q2) Can we create an instance of Enum outside of Enum itself? Explain your answer
+Answer: No, you can not create Enum instances outside of the Enum boundary, because Enum doesn't have any public
+constructor, and the compiler doesn't allow you to provide any public constructor in Enum.
+
+Q3) Can Enum extend class in Java ? Explain your answer.
+Answer: Enum cannot extend ant class in java, the reason is, by default Enum extends abstract base class
+java.lang.Enum. since java does not support multiple inheritance for classes, Enum can not extend another class.
+
+
