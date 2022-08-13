@@ -36,6 +36,7 @@ public class Student {
     public void setMarks(int marks) {
         this.marks = marks;
     }
+
 }
 
 class Employee{
