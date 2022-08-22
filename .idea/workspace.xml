@@ -33,7 +33,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="Revision-4.0" />
@@ -48,13 +48,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Revision-4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Revision-4.0" />
@@ -63,19 +56,38 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Revision-3" />
+      <option name="MAIN_CLASS_NAME" value="infy_q4.Main" />
+      <module name="evaluation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="infy_q4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="infy_q2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="infy_q2.Main" />
+      <module name="evaluation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="infy_q2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.infy_q2.Main" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
